@@ -20,7 +20,6 @@ This project was developed as part of the Neuro Fuzzy Techniques (CSL-304) cours
 * **Language:** Python 3.8+
 * **Computer Vision & Deep Learning:** Ultralytics (YOLOv8), DeepSORT (`deep-sort-realtime`), OpenCV (`opencv-python`), NumPy
 * **Data & Environment:** Google Colab, Roboflow
-* **Version Control:** Git & GitHub
 
 ## System Architecture
 The pipeline consists of three primary phases:
