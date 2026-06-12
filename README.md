@@ -3,8 +3,6 @@
 ## Overview
 This project implements a "Tracking-by-Detection" pipeline to detect, track, and analyze the behavior of multiple dogs and humans in dynamic video footage. Moving beyond simple bounding box detection, this system assigns unique identities to targets, mitigates occlusion issues, and categorizes real-time behavioral states (e.g., stationary, moving toward the user, interacting). 
 
-This project was developed as part of the Neuro Fuzzy Techniques (CSL-304) coursework at the Visvesvaraya National Institute of Technology, Nagpur.
-
 ## Key Features
 * **Custom Object Detection:** Fine-tuned YOLOv8s model trained on the Roboflow "Stray Dogs" dataset.
 * **Robust Multi-Object Tracking:** DeepSORT integration with Kalman filtering and deep appearance models for occlusion-resistant tracking and identity preservation.
