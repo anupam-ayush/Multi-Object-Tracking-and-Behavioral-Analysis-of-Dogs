@@ -1,4 +1,4 @@
-markdown_content = """# Multi-Object Tracking and Behavioral Analysis of Dogs
+# Multi-Object Tracking and Behavioral Analysis of Dogs
 
 ## Overview
 This project implements a "Tracking-by-Detection" pipeline to detect, track, and analyze the behavior of multiple dogs and humans in dynamic video footage. Moving beyond simple bounding box detection, this system assigns unique identities to targets, mitigates occlusion issues, and categorizes real-time behavioral states (e.g., stationary, moving toward the user, interacting). 
